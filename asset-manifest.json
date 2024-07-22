@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/github.io/dnd/static/css/main.7132be64.css",
+    "main.js": "/github.io/dnd/static/js/main.c178d640.js",
+    "static/js/453.4a5477a1.chunk.js": "/github.io/dnd/static/js/453.4a5477a1.chunk.js",
+    "index.html": "/github.io/dnd/index.html",
+    "main.7132be64.css.map": "/github.io/dnd/static/css/main.7132be64.css.map",
+    "main.c178d640.js.map": "/github.io/dnd/static/js/main.c178d640.js.map",
+    "453.4a5477a1.chunk.js.map": "/github.io/dnd/static/js/453.4a5477a1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7132be64.css",
+    "static/js/main.c178d640.js"
+  ]
+}
